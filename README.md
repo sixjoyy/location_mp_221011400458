@@ -1,6 +1,6 @@
 # belajar_flutter
 
-A new Flutter project.
+This content is for show/get your current location using Location Package from pub.dev
 
 ## Getting Started
 
