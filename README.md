@@ -1,6 +1,7 @@
 # belajar_flutter
 
-This content is for show/get your current location using Location Package from pub.dev
+This content is for showing/get your current location using Location Package from pub.dev
+Make sure your flutter version is compatible with Location Package Version!
 
 ## Getting Started
 
